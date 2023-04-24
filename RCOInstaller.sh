@@ -1,4 +1,4 @@
-cd /Applications/Roblox.app/Contents/MacOS
+cd /Desktop/Roblox.app/Contents/MacOS
 if [ ! -f RCOPATCHED ]; then
 mv RobloxPlayer ActualRobloxPlayer
 echo "#!/bin/sh" >> RobloxPlayer
